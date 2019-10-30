@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71NSWZLgu%2BL._SY550_.jpg",
+      "clicked": false
+   
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVPYG0O0ELLiPz7FqVGoZTgpdJWOG0v_xzPcI3biLIHZfvOkQc",
+      "clicked": false
+
+    },
+    {
+      "id": 3,
+      "image": "https://comicvine1.cbsistatic.com/uploads/scale_small/1/14487/6694382-wonder%20girl.jpg",
+      "clicked": false
+
+    },
+    {
+      "id": 4,
+      "image": "http://supertextcrown.com/upload/2018/07/13/shop-fathead-batman-sports-wall-stickers-at-lowescom-batman-wall-stickers-l-06c188c195ac1589.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://i.pinimg.com/736x/be/17/ec/be17ecfe90994d090c44c1489d8b1735--starfire-dc-dc-comic.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "http://www.writeups.org/wp-content/uploads/Firestorm-DC-Comics-Stein-Raymond-a.jpg",
+      "clicked": false
+
+    },
+    {
+      "id": 7,
+      "image": "https://i.annihil.us/u/prod/marvel/i/mg/9/30/4ce189c213e4b/standard_incredible.jpg",
+      "clicked": false
+    },
+
+    {
+      "id": 8,
+      "image": "https://vignette.wikia.nocookie.net/disney-infinity/images/0/08/ClP1WFSVAAAce7x.jpg/revision/latest?cb=20160618194605",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://www.writeups.org/wp-content/uploads/Spider-Man-Marvel-Comics-Peter-Parker-Profile-c.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://www.pnglot.com/pngfile/detail/167-1674975_there-are-four-marvel-superheroes-set-to-get.png",
+      "clicked": false
+    
+    },
+    {
+      "id": 11,
+      "image": "https://i.pinimg.com/originals/21/57/1c/21571cb09eb92e259da4b6d001d7247e.jpg",
+      "clicked": false
+ 
+    },
+    {
+      "id": 12,
+      "image": "https://www.maritimeaquarium.org/assets/2531/captain_america.png",
+      "clicked": false
+    }
+  ]
+  
