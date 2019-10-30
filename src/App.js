@@ -34,13 +34,17 @@ class App extends Component {
     }
     else{
       this.handleReset();
+      this.setState({
+        message: "You guessed incorrectly!" 
+      })
     };
   }
 
   handleIncrement = () => {
 const newScore = this.state.currentScore + 1;
 this.setState({
-  currentScore: newScore
+  currentScore: newScore,
+  message: ""
 });
 if(newScore >= this.state.topScore){
 this.setState({topScore: newScore});
@@ -74,10 +78,9 @@ this.setState({cards: shuffleCard})
        <Navbar 
        score={this.state.currentScore}
        topScore={this.state.topScore}
-       Scores={this.state.Scores}
+       message={this.state.message}
        />
-    
-      
+       <br/><br/>
        <Header />
 
        <div className="container">

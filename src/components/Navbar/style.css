@@ -1,27 +1,31 @@
-nav {
+/* nav {
     width: 100%;
     font-size: calc(10px + 14 * (100vw - 320px)/ 800);
-position: fixed;
-min-height: 70px;
+
+min-height: 0px;
 z-index: 99;
 white-space: nowrap;
-
-  
   }
   
-
   
   nav li {
     display: inline-block;
-    padding: 26px 0;
-    width: 25%;
+    padding: 10px 0;
+    width: 33.3%;
     text-align: center;
   }
   
   ul {
-    /* padding-left: 0px; */
+    padding-left: 0px;
     display: flex;
     align-items: center;
   }
   
- 
+  */
+
+  .navbar-centerr{
+    float:none;
+	margin: 0 auto;
+	display: table;
+	table-layout: fixed;
+} 
