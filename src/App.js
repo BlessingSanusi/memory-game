@@ -90,7 +90,7 @@ this.setState({cards: shuffleCard})
                   key={card.id}
                   handleClick={this.handleClick}
                   handleIncrement={this.handleIncrement}
-                  handleReset={this.handleReset}
+                  handleReset={this.handleReset} 
                   handleShuffle={this.handleShuffle}
                   id={card.id}
                   image={card.image}

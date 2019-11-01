@@ -2,7 +2,7 @@ import React from 'react'
 import './style.css'
 function Navbar(props) {
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-primary mb-5 fixed-top">
             <div className="navbar-header">
         
 					
